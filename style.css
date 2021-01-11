@@ -1,0 +1,291 @@
+.btn1{
+ background-color: white;
+ text-decoration: none;
+ font-family: cursive;
+ font-size: 20px;
+ color: black;
+ padding: 10px;
+ margin-top: 50px;
+ margin-left: 30px;
+ border-style: solid;
+ border-width: 3px;
+ border-color: white;
+ transition: 0.3s;
+ position: relative;
+ top: 100px;
+}
+
+.btn1:hover{
+	background-color: black;
+	color: white;
+	border-color: snow;
+	top: 96px;
+}
+
+#heading1{
+	padding: 10px;
+	text-align: center;
+	color: white;
+	border-style: groove;
+	border-color: yellow;
+}
+
+#img1{
+	border-style: solid;
+	border-color: white;
+	border-radius: 15px;
+	position: relative;
+     left: 10px;
+     top: 320px; 
+}
+
+#hr1{
+	position: relative;
+	top: 130px;
+}
+#heading2{
+	background-color: rgb(211, 255, 117);
+	color: black;
+	border-style: solid;
+	border-color: white;
+	width: 200px;
+	text-align: center;
+	font-size: 40px;
+	position: relative;
+	top: 300px;
+}
+
+
+#para1{
+	color: white;
+	font-size: 20px;
+	font-family: monospace;
+	position: relative;
+	top: 320px;
+
+}
+
+#list1{
+	color: white;
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	width: 600px;
+	margin: 20px;
+	padding: 20px;
+	border-radius: 15px;
+	position: relative;
+	top: 350px;
+	right: 20px;
+}
+
+#img2{
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 15px;
+	position: relative;
+	top: 500px;
+}
+
+#hr2{
+	position: relative;
+	top: 400px
+}
+#heading3{
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+ 	width: 200px;
+ 	text-align: center;
+ 	/*font-size: */
+ 	color: black;
+ 	padding: 10px;
+	/*color: white;*/
+	background-color: rgb(211, 255, 117);
+	padding: 15px;
+	position: relative;
+	/*border-radius:*/
+	top: 500px;
+}
+
+
+#list2{
+	color: white;
+	position: relative;
+	top: 500px;
+	right:0px;
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	border-radius: 15px;
+	padding: 15px;
+	padding-left: 23px;
+	width: 400px;
+}
+
+#hr3{
+	position: relative;
+	top: 600px;
+}
+
+#img3{
+	position: relative;
+	top: 600px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 15px;
+}
+
+#heading4{
+	color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 0px;
+	padding: 15px;
+	background-color: rgb(211, 255, 117);
+	color: black;
+	text-align: center;
+	width: 200px;
+	position: relative;
+	top: 600px;
+}
+
+#list3{
+	color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 15px;
+	padding: 15px;
+	width: 400px;
+	padding-left: 23px;
+	position: relative;
+	top: 600px;
+}
+#hr4{
+	position: relative;
+	top: 700px;
+}
+
+#img4{
+	position: relative;
+	top: 690px;
+}
+
+#heading5{
+	color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	background-color: rgb(211, 255, 117);
+	padding: 15px;
+	font-size: 20px;
+	text-align: center;
+	width: 200px;
+	color: black;
+	position: relative;
+	top: 700px;
+}
+
+#list4{
+	color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 15px;
+	padding: 15px;
+	padding-left: 23px;
+	width: 400px;
+	position: relative;
+	top: 670px;
+}
+
+#img5{
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	border-radius: 15px;
+	position: relative;
+	top: 800px;
+}
+
+#hr5{
+	position: relative;
+	top: 800px;
+}
+
+#heading6{
+	background-color: rgb(211, 255, 117);
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	color: black;
+	padding: 15px;
+	text-align: center;
+	width: 200px;
+    position: relative;	
+    top: 800px;
+}
+
+
+#list5{
+	color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 15px;
+	padding: 15px;
+	padding-left: 23px;
+	width: 400px;
+	position: relative;
+	top: 800px;
+}
+
+#hr6{
+	position: relative;
+	top: 900px;
+}
+
+#img6{
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 15px;
+	position: relative;
+	top: 1010px;
+}
+
+#heading7{
+	color: black;
+	background-color: rgb(211, 255, 117);
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	padding: 15px;
+	text-align: center;
+	width: 200px;
+	position: relative;
+	top: 700px;
+
+}
+
+#list6{
+	color: white;
+	border-style: solid;
+	border-width: 2px;
+	padding: 15px;
+	padding-left: 23px;
+	border-radius: 15px;
+	border-color: white;
+	width: 400px;
+	position: relative;
+	top: 940px;
+}
+
+#hr7{
+	position: relative;
+	top: 1000px;
+}
